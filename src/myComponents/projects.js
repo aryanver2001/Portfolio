@@ -16,7 +16,7 @@ export default function projects() {
       </div>
       <div className='section-parent'>
         <div className='project-head-card'>
-          <div className="card project-card" data-aos="fade-right">
+          <div className="card project-card" data-aos="fade-out">
             <img className="card-img-top" src={Shopimage} alt="Card image cap" />
             <div className="card-body">
               <h4 className="card-title">E-Commerce Website</h4>
@@ -26,7 +26,7 @@ export default function projects() {
               <a href="https://aryanver2001.github.io/JaiprakashOrnamentHouse/" className="btn btn-dark text-white" target='blank'>Explore </a>
             </div>
           </div>
-          <div className="card project-card" data-aos="fade-left">
+          <div className="card project-card" data-aos="fade-out">
             <img className="card-img-top" src={Portfolioimage} alt="Card image cap" />
             <div className="card-body">
               <h4 className="card-title">Portfolio Website</h4>
@@ -36,7 +36,7 @@ export default function projects() {
               <a href="#top" className="btn btn-dark text-white">You are there!</a>
             </div>
           </div>
-          <div className="card project-card" data-aos="fade-right">
+          <div className="card project-card" data-aos="fade-out">
             <img className="card-img-top" src={Rocketimage} alt="Card image cap" />
             <div className="card-body">
               <h4 className="card-title">RocketMan Website</h4>
@@ -46,7 +46,7 @@ export default function projects() {
               <a href="https://rocketman2001.netlify.app/" className="btn btn-dark text-white" target='blank'>Explore</a>
             </div>
           </div>
-          <div className="card project-card" data-aos="fade-left">
+          <div className="card project-card" data-aos="fade-out">
             <img className="card-img-top" src={AIimage} alt="Card image cap" />
             <div className="card-body">
               <h4 className="card-title">Brain Tumor Detection AI Model</h4>

@@ -11,7 +11,7 @@ export default function contactMe() {
                     src={SectionDivider} alt="" />
             </div>
 
-            <div className='section-parent'  data-aos="fade-left">
+            <div className='section-parent'  data-aos="fade-in">
                 <div className='contact-card'>
                     <div className='contact-child'>
                         <h3>Let's Keep In Touch!</h3>

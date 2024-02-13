@@ -12,7 +12,7 @@ export default function aboutMe() {
                 <img class="section-divider"
                     src={SectionDivider} alt="" />
             </div>
-            <div className='section-parent' data-aos="fade-left">
+            <div className='section-parent' data-aos="fade-out">
                 <div className='about-card'>
                     <div className='about-img'>
                         <img src={AboutImg} alt="" />   

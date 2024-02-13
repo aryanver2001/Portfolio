@@ -12,7 +12,7 @@ export default function skills() {
                     src={SectionDivider} alt="" />
             </div>
 
-            <div className='section-parent'  data-aos="fade-right">
+            <div className='section-parent'  data-aos="fade-out">
                 <div className='about-card skill-card'>
                     <div className='about-child skill-card'>
                         <div className='skills-list'>
