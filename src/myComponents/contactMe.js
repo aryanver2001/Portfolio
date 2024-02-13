@@ -5,14 +5,14 @@ import ContactImage from "./Images/conatct-image.png"
 export default function contactMe() {
     return (
         <>
-            <div className="section-seprator" id='contact'>
+            <div className="section-seprator" id='contact' data-aos="fade-in">
                 <span className="section-head" id="about">contact me</span>
                 <span className="section-sub-head">get in touch &#129309;</span>
                 <img className="section-divider"
                     src={SectionDivider} alt="" />
             </div>
 
-            <div className='section-parent'>
+            <div className='section-parent'  data-aos="fade-left">
                 <div className='contact-card'>
                     <div className='contact-child'>
                         <h3>Let's Keep In Touch!</h3>

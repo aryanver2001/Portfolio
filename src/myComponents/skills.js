@@ -5,14 +5,14 @@ import SectionDivider from "./Images/divider.png"
 export default function skills() {
     return (
         <>
-            <div className="section-seprator" id='skills'>
+            <div className="section-seprator" id='skills' data-aos="fade-in">
                 <span className="section-head" id="about">skills</span>
                 <span className="section-sub-head">my expertise</span>
                 <img className="section-divider"
                     src={SectionDivider} alt="" />
             </div>
 
-            <div className='section-parent'>
+            <div className='section-parent'  data-aos="fade-right">
                 <div className='about-card skill-card'>
                     <div className='about-child skill-card'>
                         <div className='skills-list'>

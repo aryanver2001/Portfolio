@@ -5,17 +5,17 @@ import AboutImg from "./Images/aboutimg.jpg"
 export default function aboutMe() {
     return (
         <>
-            <div class="section-seprator">
+            <div class="section-seprator" data-aos="fade-in">
                 <span class="section-head" id="about">about
                     me</span>
                 <span class="section-sub-head">why me?</span>
                 <img class="section-divider"
                     src={SectionDivider} alt="" />
             </div>
-            <div className='section-parent'>
+            <div className='section-parent' data-aos="fade-left">
                 <div className='about-card'>
                     <div className='about-img'>
-                        <img src={AboutImg} alt="" />
+                        <img src={AboutImg} alt="" />   
                     </div>
                     <div className='about-child'>
                     <p>As a developer, I am a motivated individual with strong skills in programming and problem-solving. Detail-oriented, always learning

@@ -1,10 +1,10 @@
 import React from 'react'
-import profilePhoto from "./Images/profile-photo.png"
+import profilePhoto from "./Images/profile-photo.png";
 
 export default function profile() {
     return (
         <div class="top-bg profile-parent">
-        <div class="profile-card">
+        <div class="profile-card" data-aos="zoom-in" data-aos-offset="0">
             <div class="profile-child">
                 <div class="profile-content">
                     <span class="name">aryan verma</span>
