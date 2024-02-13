@@ -1,6 +1,5 @@
 import React from 'react'
 import SectionDivider from "./Images/divider.png"
-import ContactImage from "./Images/conatct-image.png"
 
 export default function contactMe() {
     return (

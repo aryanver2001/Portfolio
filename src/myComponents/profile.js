@@ -1,5 +1,6 @@
 import React from 'react'
 import profilePhoto from "./Images/profile-photo.png";
+import { Link } from "react-router-dom";
 
 export default function profile() {
     return (
