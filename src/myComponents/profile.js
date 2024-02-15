@@ -5,7 +5,7 @@ import profilePhoto from "./Images/profile-photo.png";
 //Frontend Developer<i className="bi bi-pc-display-horizontal logo"></i>
 export default function Profile() {
     return (
-        <div className="top-bg profile-parent">
+        <div className="dark-bg profile-parent">
             <div className="profile-card">
                 <div className="profile-child">
                     <div className="profile-content">

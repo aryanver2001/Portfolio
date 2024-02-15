@@ -4,6 +4,7 @@ import AIimage from "./Images/project-ai.jpg"
 import Rocketimage from "./Images/project-rocket.png"
 import Shopimage from "./Images/project-shop.png" 
 import Portfolioimage from "./Images/project-portfolio.jpg"
+import { Link } from 'react-router-dom'
 
 export default function projects() {
   return (
@@ -23,7 +24,7 @@ export default function projects() {
               <h6 className="card-subtitle mb-2 text-muted">Tech Used: ReactJs, HTML, CSS</h6>
               <p className="card-text">Designed and implemented a responsive website for my independent jewellery store, highlighting proficiency in React, HTML,
                 and CSS. Delivered a seamless user experience, showcasing expertise in web development and user interface design.</p>
-              <a href="https://aryanver2001.github.io/JaiprakashOrnamentHouse/" className="btn btn-dark text-white" target='blank'>Explore </a>
+              <a href="https://jaiprakashornamenthouse.netlify.app/" className="btn btn-dark text-white" target='blank'>Explore </a>
             </div>
           </div>
           <div className="card project-card" data-aos="fade-out">

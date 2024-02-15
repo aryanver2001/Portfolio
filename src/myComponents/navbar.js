@@ -3,9 +3,9 @@ import React from 'react'
 export default function navbar() {
     return (
     // NAVBAR
-    <div className='top-bg' id="home">
+    <div className="dark-bg" id="home" >
         <nav
-            className="navbar navbar-expand-lg navbar-dark bg-transparent">
+            className="navbar navbar-expand-lg  navbar-dark bg-transparent">
             <div className="container">
                 <span
                     className="navbar-brand fs-5">Portfolio</span>
