@@ -20,28 +20,28 @@ export default function skills() {
                                 <h5>Languages :</h5>
                                 <ul>
                                     <li>HTML
-                                        <div class="progress">
-                                            <div class="progress-bar bg-info" role="progressbar" style={{ width: "90%" }} aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
+                                        <div className="progress">
+                                            <div className="progress-bar bg-info" role="progressbar" style={{ width: "90%" }} aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
                                         </div>
                                     </li>
                                     <li>CSS
-                                        <div class="progress">
-                                            <div class="progress-bar bg-info" role="progressbar" style={{ width: "90%" }} aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
+                                        <div className="progress">
+                                            <div className="progress-bar bg-info" role="progressbar" style={{ width: "90%" }} aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
                                         </div>
                                     </li>
                                     <li>JavaScript
-                                        <div class="progress">
-                                            <div class="progress-bar bg-info" role="progressbar" style={{ width: "70%" }} aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
+                                        <div className="progress">
+                                            <div className="progress-bar bg-info" role="progressbar" style={{ width: "70%" }} aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
                                         </div>
                                     </li>
                                     <li>C++
-                                        <div class="progress">
-                                            <div class="progress-bar bg-info" role="progressbar" style={{ width: "90%" }} aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
+                                        <div className="progress">
+                                            <div className="progress-bar bg-info" role="progressbar" style={{ width: "90%" }} aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
                                         </div>
                                     </li>
                                     <li>LaTeX
-                                        <div class="progress">
-                                            <div class="progress-bar bg-info" role="progressbar" style={{ width: "50%" }} aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
+                                        <div className="progress">
+                                            <div className="progress-bar bg-info" role="progressbar" style={{ width: "50%" }} aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
                                         </div>
                                     </li>
                                 </ul>
@@ -50,13 +50,13 @@ export default function skills() {
                                 <h5>Libraries :</h5>
                                 <ul>
                                     <li>React Js
-                                        <div class="progress">
-                                            <div class="progress-bar bg-info" role="progressbar" style={{ width: "70%" }} aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
+                                        <div className="progress">
+                                            <div className="progress-bar bg-info" role="progressbar" style={{ width: "70%" }} aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
                                         </div>
                                     </li>
                                     <li>Bootstrap
-                                        <div class="progress">
-                                            <div class="progress-bar bg-info" role="progressbar" style={{ width: "80%" }} aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
+                                        <div className="progress">
+                                            <div className="progress-bar bg-info" role="progressbar" style={{ width: "80%" }} aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
                                         </div>
                                     </li>
                                 </ul>
@@ -65,8 +65,8 @@ export default function skills() {
                                 <h5>Tools & Platforms:</h5>
                                 <ul>
                                     <li>Git
-                                        <div class="progress">
-                                            <div class="progress-bar bg-info" role="progressbar" style={{ width: "60%" }} aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
+                                        <div className="progress">
+                                            <div className="progress-bar bg-info" role="progressbar" style={{ width: "60%" }} aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
                                         </div>
                                     </li>
                                 </ul>
@@ -75,8 +75,8 @@ export default function skills() {
                                 <h5>Database:</h5>
                                 <ul>
                                     <li>MySQL
-                                        <div class="progress">
-                                            <div class="progress-bar bg-info" role="progressbar" style={{ width: "60%" }} aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
+                                        <div className="progress">
+                                            <div className="progress-bar bg-info" role="progressbar" style={{ width: "60%" }} aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
                                         </div>
                                     </li>
                                 </ul>

@@ -1,7 +1,7 @@
 import "./myComponents/styles/globalStyle.css";
 import "./myComponents/styles/responsive.css";
 import Navbar from "./myComponents/navbar";
-import Profile from "./myComponents/profile";
+import Profile from "./myComponents/Profile";
 import AboutMe from "./myComponents/aboutMe";
 import Projects from "./myComponents/projects"
 import Skills from "./myComponents/skills";

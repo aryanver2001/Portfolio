@@ -97,9 +97,9 @@ body {
 
 .designation {
     font-size: clamp(10px, 5vw, 30px);
-    background: rgb(197, 222, 22);
-    background: linear-gradient(45deg, rgba(197, 222, 22, 1) 0%, rgba(208, 197, 33, 1) 19%, rgba(19, 226, 74, 1) 34%, rgba(232, 14, 37, 1) 70%);
-    color: transparent;
+    color: rgb(197, 222, 22);
+    /* background: linear-gradient(45deg, rgba(197, 222, 22, 1) 0%, rgba(208, 197, 33, 1) 19%, rgba(19, 226, 74, 1) 34%, rgba(232, 14, 37, 1) 70%);
+    color: transparent; */
     background-clip: text;
 }
 

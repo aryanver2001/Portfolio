@@ -15,17 +15,17 @@ export default function contactMe() {
                 <div className='contact-card'>
                     <div className='contact-child'>
                         <h3>Let's Keep In Touch!</h3>
-                        <div class="profile-logo">
-                            <a class="bi bi-linkedin logo"
+                        <div className="profile-logo">
+                            <a className="bi bi-linkedin logo"
                                 href="https://www.linkedin.com/in/aryanver6/"
                                 target="_blank" rel="noreferrer"></a>
-                            <a class="bi bi-instagram logo"
+                            <a className="bi bi-instagram logo"
                                 href="https://www.instagram.com/aryan_verma02_/"
                                 target="_blank" rel="noreferrer"></a>
-                            <a class="bi bi-github logo"
+                            <a className="bi bi-github logo"
                                 href="https://github.com/aryanver2001"
                                 target="_blank" rel="noreferrer"></a>
-                            <a class="bi bi-facebook logo"
+                            <a className="bi bi-facebook logo"
                                 href="https://www.facebook.com/profile.php?id=100008700275122"
                                 target="_blank" rel="noreferrer"></a>
                         </div>

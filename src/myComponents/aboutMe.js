@@ -5,11 +5,11 @@ import AboutImg from "./Images/aboutimg.jpg"
 export default function aboutMe() {
     return (
         <>
-            <div class="section-seprator" data-aos="fade-in">
-                <span class="section-head" id="about">about
+            <div className="section-seprator" data-aos="fade-in">
+                <span className="section-head" id="about">about
                     me</span>
-                <span class="section-sub-head">why me?</span>
-                <img class="section-divider"
+                <span className="section-sub-head">why me?</span>
+                <img className="section-divider"
                     src={SectionDivider} alt="" />
             </div>
             <div className='section-parent' data-aos="fade-out">
@@ -28,12 +28,12 @@ export default function aboutMe() {
                             <li>C++ Programming</li>
                         </ul>
                     </div>
-                    <div class="cv-download-btn-about">
+                    <div className="cv-download-btn-about">
                     <a href="ARYAN_RESUME.pdf"
                         download="ARYAN_RESUME.pdf"
                         target="_blank" rel="noreferrer">
-                        <button class="btn-about">Download CV <i
-                            class="fa fa-download"></i></button>
+                        <button className="btn-about">Download CV <i
+                            className="fa fa-download"></i></button>
                     </a>
                 </div>
                     </div>
