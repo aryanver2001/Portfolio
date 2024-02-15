@@ -41,7 +41,7 @@ export default function projects() {
             <img className="card-img-top" src={Rocketimage} alt="Card image cap" />
             <div className="card-body">
               <h4 className="card-title">RocketMan Website</h4>
-              <h6 className="card-subtitle mb-2 text-muted">Tech Used: HTML, CSS</h6>
+              <h6 className="card-subtitle mb-2 text-muted">Tech Used: HTML | CSS</h6>
               <p className="card-text">Leveraged extensive knowledge to architect and develop a HTML/CSS
                 website, gaining practical acumen to address realworld challenges, enhancing teamwork and personal growth.</p>
               <a href="https://rocketman2001.netlify.app/" className="btn btn-dark text-white" target='blank'>Explore</a>
@@ -51,7 +51,7 @@ export default function projects() {
             <img className="card-img-top" src={AIimage} alt="Card image cap" />
             <div className="card-body">
               <h4 className="card-title">Brain Tumor Detection AI Model</h4>
-              <h6 className="card-subtitle mb-2 text-muted">Tech Used: TensorFlow, Densenet</h6>
+              <h6 className="card-subtitle mb-2 text-muted">Tech Used: TensorFlow | Densenet</h6>
               <p className="card-text">In collaboration with a team of three members, developed an
                 advanced AI model for precise brain tumor detection using TensorFlow, Densenet, and CNNs. Strengthened tech proficiency,
                 teamwork, and project contributions, elevating overall performance.
