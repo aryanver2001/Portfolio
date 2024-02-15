@@ -21,7 +21,7 @@ export default function projects() {
             <img className="card-img-top" src={Shopimage} alt="Card image cap" />
             <div className="card-body">
               <h4 className="card-title">E-Commerce Website</h4>
-              <h6 className="card-subtitle mb-2 text-muted">Tech Used: ReactJs, HTML, CSS</h6>
+              <h6 className="card-subtitle mb-2 text-muted">Tech Used: ReactJs | Bootstrap | HTML | CSS</h6>
               <p className="card-text">Designed and implemented a responsive website for my independent jewellery store, highlighting proficiency in React, HTML,
                 and CSS. Delivered a seamless user experience, showcasing expertise in web development and user interface design.</p>
               <a href="https://jaiprakashornamenthouse.netlify.app/" className="btn btn-dark text-white" target='blank'>Explore </a>
@@ -31,7 +31,7 @@ export default function projects() {
             <img className="card-img-top" src={Portfolioimage} alt="Card image cap" />
             <div className="card-body">
               <h4 className="card-title">Portfolio Website</h4>
-              <h6 className="card-subtitle mb-2 text-muted">Tech Used: ReactJs, HTML, CSS</h6>
+              <h6 className="card-subtitle mb-2 text-muted">Tech Used: ReactJs | Bootstrap | HTML | CSS</h6>
               <p className="card-text">Showcased advanced HTML, CSS, and JavaScript skills in responsive web design, creating dynamic, user-friendly interfaces,
                 demonstrating elevated development expertise.</p>
               <a href="#top" className="btn btn-dark text-white">You are there!</a>
